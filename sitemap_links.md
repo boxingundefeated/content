@@ -1,5 +1,3 @@
-# SITEMAP
-
 - [The Best 1 Inch Thick Yoga Mats](https://github.com/boxingundefeated/content/blob/main/products/best/1/The%20Best%201%20Inch%20Thick%20Yoga%20Mats.md)
 - [The Best 1 lb Kettlebells](https://github.com/boxingundefeated/content/blob/main/products/best/1/The%20Best%201%20lb%20Kettlebells.md)
 - [The Best 10 lb Kettlebells](https://github.com/boxingundefeated/content/blob/main/products/best/1/The%20Best%2010%20lb%20Kettlebells.md)
